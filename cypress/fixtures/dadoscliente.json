@@ -1,0 +1,11 @@
+{
+  "endereco": {
+    "cep":"91530030",
+    "numero":"123",
+    "complemento":"casa"
+  },
+  "contato":{
+    "email":"@mail.com",
+    "fone":"5199300000"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "https://bank-hom.in/",
+    "env": {
+        "apiUrl": "http://-hom.in",
+        "codUrl": "",
+        "codAtendimento": "",
+        "timeout": 60000
+    }
+}
